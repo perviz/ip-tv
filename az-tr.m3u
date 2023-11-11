@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1,TRT 1 HD
+http://bak01-edge03.itdc.ge/trt1hd/mpegts
+#EXTINF:-1,TRT 1
+http://bak01-edge03.itdc.ge/trt1/mpegts
+#EXTINF:-1,TRT Haber
+http://bak01-edge03.itdc.ge/trth/mpegts
+#EXTINF:-1,TRT Belgesel
+http://bak01-edge03.itdc.ge/trtbelgesel/mpegts
+#EXTINF:-1,TRT TURK
+http://bak01-edge03.itdc.ge/trtturk/mpegts
+#EXTINF:-1,TRT OKUL
+http://bak01-edge03.itdc.ge/trtokul/mpegts
+#EXTINF:-1,TRT Avaz
+http://bak01-edge03.itdc.ge/trtavaz/mpegts
+#EXTINF:-1,ATV TV HD
+http://bak01-edge03.itdc.ge/atvturkhd/mpegts
+#EXTINF:-1,TV8
+http://bak01-edge03.itdc.ge/tv8/mpegts
+#EXTINF:-1,TV8.5
+http://bak01-edge03.itdc.ge/foxturk/mpegts
+#EXTINF:-1,360 TV
+http://bak01-edge03.itdc.ge/360tv/mpegts
+#EXTINF:-1,Fil TV HD
+http://bak01-edge03.itdc.ge/foxturkhd/mpegts
+#EXTINF:-1,Beyaz TV HD
+http://bak01-edge03.itdc.ge/beyazhd/mpegts
+#EXTINF:-1,Star TV HD
+http://bak01-edge03.itdc.ge/starhd/mpegts
+#EXTINF:-1,Show Tv HD
+http://bak01-edge03.itdc.ge/showtvhd/mpegts
+#EXTINF:-1,Show MAX
+http://bak01-edge03.itdc.ge/showturk/mpegts
+#EXTINF:-1,Fox TV
+http://bak01-edge03.itdc.ge/foxtv/mpegts
+#EXTINF:-1,Kanal D
+http://bak01-edge03.itdc.ge/kanald/mpegts
+#EXTINF:-1,Kanal 7
+http://bak01-edge03.itdc.ge/kanal7/mpegts
+#EXTINF:-1,Turkmeneli TV
+http://bak01-edge03.itdc.ge/turkmeneli/mpegts
+#EXTINF:-1,TLC
+http://bak01-edge03.itdc.ge/natgeowturk/mpegts
+#EXTINF:-1,LİFETİME
+http://bak01-edge03.itdc.ge/worldtranchan/mpegts
+#EXTINF:-1,MCJ
+http://bak01-edge03.itdc.ge/mcj/mpegts
+#EXTINF:-1,Kanal A
+http://bak01-edge03.itdc.ge/kanala/mpegts
+#EXTINF:-1,Ntv HD
+http://bak01-edge03.itdc.ge/ntvtrhd/mpegts
+#EXTINF:-1,NTV
+http://bak01-edge03.itdc.ge/thttv/mpegts
+#EXTINF:-1,Ntv spor HD
+http://bak01-edge03.itdc.ge/ntvsporhd/mpegts
+#EXTINF:-1,TRT SPOR
+http://bak01-edge03.itdc.ge/trt3/mpegts
+#EXTINF:-1,A Haber HD
+http://bak01-edge03.itdc.ge/ahaberhd/mpegts
+#EXTINF:-1,A Sport HD
+http://bak01-edge03.itdc.ge/asporhd/mpegts
+#EXTINF:-1,HABER TURK HD
+http://bak01-edge03.itdc.ge/haberturkhd/mpegts
+#EXTINF:-1,KANAL 24
+http://bak01-edge03.itdc.ge/kanal24/mpegts
+#EXTINF:-1,Bloomberght
+http://bak01-edge03.itdc.ge/bloomberght/mpegts
+#EXTINF:-1,Yaban TV
+http://bak01-edge03.itdc.ge/yaban/mpegts
+#EXTINF:-1,PLANET TURK
+http://bak01-edge03.itdc.ge/planetturk/mpegts
+#EXTINF:1,Sony Channel TV TR
+http://bak01-edge03.itdc.ge/planetpembe/mpegts
+#EXTINF:-1,PLANET Mutfak
+http://bak01-edge03.itdc.ge/planetmutfak/mpegts
+#EXTINF:-1,PLANET Çocuk
+http://bak01-edge03.itdc.ge/planetcocuk/mpegts
+#EXTINF:-1,TRT Çocuk
+http://bak01-edge03.itdc.ge/trtcocuk/mpegts
+#EXTINF:-1,Cartoon Network
+http://bak01-edge03.itdc.ge/cartoon/mpegts
+#EXTINF:-1,Cartoon Network
+http://bak01-edge03.itdc.ge/cartoonnet/mpegts
+#EXTINF:-1,Disney tv
+http://bak01-edge03.itdc.ge/disneychan/mpegts
+#EXTINF:-1,Minika TV Go
+http://bak01-edge03.itdc.ge/live/minikago/mpegts
+#EXTINF:-1,Minika Cocuk
+http://bak01-edge03.itdc.ge/live/minikacocuk/mpegts
+#EXTINF:-1,Fasionone HD
+http://bak01-edge03.itdc.ge/fasiononehd/mpegts
+#EXTINF:-1,Fashion TV
+http://bak01-edge03.itdc.ge/fashiontv/mpegts
+#EXTINF:-1,MTV TV HD
+http://bak01-edge03.itdc.ge/mtvhd/mpegts
+#EXTINF:-1,TRT Muzik
+http://bak01-edge03.itdc.ge/trtmuzik/mpegts
+#EXTINF:-1,Power HD
+http://bak01-edge03.itdc.ge/powertvhd/mpegts
+#EXTINF:-1,Power Türk TV HD
+http://bak01-edge03.itdc.ge/powerturkhd/mpegts
+#EXTINF:-1,Power Türk TV
+http://bak01-edge03.itdc.ge/powerturktv/mpegts
+#EXTINF:-1,POWER TV
+http://bak01-edge03.itdc.ge/powertv/mpegts
+#EXTINF:-1,Kral TV
+http://bak01-edge03.itdc.ge/kral/mpegts
+#EXTINF:-1,Kral Pop
+http://bak01-edge03.itdc.ge/kralpop/mpegts
+#EXTINF:-1,TMB TV
+http://bak01-edge03.itdc.ge/tmbtv/mpegts
+#EXTINF:-1,Idman TV
+http://bak01-edge03.itdc.ge/idman/mpegts
+#EXTINF:-1,CBC SPORT HD
+http://bak01-edge03.itdc.ge/cbcsporthd/mpegts
+#EXTINF:-1,CBC SPORT
+http://bak01-edge03.itdc.ge/cbcsport/mpegts
+#EXTINF:-1,CBC AZ
+http://bak01-edge03.itdc.ge/cbcaz/mpegts
+#EXTINF:-1,ATV Tv
+http://bak01-edge03.itdc.ge/atvaz/mpegts
+#EXTINF:-1,Az Tv
+http://bak01-edge03.itdc.ge/aztv/mpegts
+#EXTINF:-1,Xazar Tv
+http://bak01-edge03.itdc.ge/xazer/mpegts
+#EXTINF:-1,Ictimai
+http://bak01-edge03.itdc.ge/ictimai/mpegts
+#EXTINF:-1,Space Tv
+http://bak01-edge03.itdc.ge/space/mpegts
+#EXTINF:-1,Lider Tv
+http://bak01-edge03.itdc.ge/lider/mpegts
+#EXTINF:-1,MEDENİYET TV
+http://bak01-edge03.itdc.ge/medeniyet/mpegts
+#EXTINF:-1,ANS Tv
+http://bak01-edge03.itdc.ge/anstv/mpegts
+#EXTINF:-1,Arb
+http://bak01-edge03.itdc.ge/arb/mpegts
+#EXTINF:-1,Arb24
+http://bak01-edge03.itdc.ge/arb24/mpegts
+#EXTINF:-1,Arbgunes
+http://bak01-edge03.itdc.ge/arbgunes/mpegts
+#EXTINF:-1,Arbulduz-alternativtv
+http://bak01-edge03.itdc.ge/arbulduz-alternativtv/mpegts
+#EXTINF:-1,Chatbox
+http://bak01-edge03.itdc.ge/chatbox/mpegts
+#EXTINF:-1,Tmbru
+http://bak01-edge03.itdc.ge/tmbru/mpegts
